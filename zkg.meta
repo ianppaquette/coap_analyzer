@@ -1,9 +1,0 @@
-[package]
-description = coap Protocol Analyzer for Zeek
-credits = ianppaquette@gmail.com
-tags = coap, rfc7252
-
-test_command = cd tests && make
-
-build_command = ./configure && make
-script_dir = ./scripts
